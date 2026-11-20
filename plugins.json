@@ -1,0 +1,17 @@
+[
+    {
+        "fileHash": "sha256-f6f7e12e0450134045b542239831783a7799e73e61a8803dd900188c307bfe1b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/username/movielinkbd",
+        "fileSize": 19330,
+        "status": 3,
+        "authors": [
+            "MovieLinkBD Dev"
+        ],
+        "version": 1,
+        "internalName": "MovieLinkBD",
+        "description": "MovieLinkBD Provider with strict NSFW / 18+ adult content filtering",
+        "url": "https://raw.githubusercontent.com/username/movielinkbd/builds/MovieLinkBD.cs3",
+        "name": "MovieLinkBD"
+    }
+]

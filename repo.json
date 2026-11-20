@@ -1,0 +1,8 @@
+{
+  "name": "MovieLinkBD Safe Repository",
+  "description": "CloudStream Provider for MovieLinkBD with strict NSFW / 18+ content filtering",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/USERNAME/REPOSITORY/refs/heads/builds/plugins.json"
+  ]
+}
