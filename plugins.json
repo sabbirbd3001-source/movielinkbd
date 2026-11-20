@@ -6,10 +6,10 @@
       "MovieLinkBD Dev"
     ],
     "description": "MovieLinkBD Provider with strict NSFW / 18+ adult content filtering",
-    "version": 1,
+    "version": 2,
     "apiVersion": 1,
     "status": 2,
-    "fileSize": 19330,
+    "fileSize": 25453,
     "url": "https://raw.githubusercontent.com/sabbirbd3001-source/movielinkbd/main/MovieLinkBD.cs3"
   }
 ]
